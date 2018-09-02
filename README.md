@@ -1,5 +1,6 @@
 # data_augementation
 this project rely on python3.6.5, need to install PIL, skimage, scipy, hashlib.
+
     this hub is about how to make data augementation in seq2seqs model, when OCR model processes digital sequences, a very import 
 issue is digital sequences not satisfied uniform distribution, the problem will be caused is OCR model cannot recognize partial digital sequences. for example, training the ten digital sequence 0000012345, the first five digits are beginning with 00000. when prediction data appears 1234500000, the training model can not correctly predict the sequence data. At this time, the best practice is to evenly distribute the data. The main functions are as follows:
 
