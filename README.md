@@ -13,7 +13,7 @@ issue is digital sequences not satisfied uniform distribution, the problem will 
   
   d. in order to improve the robustness of OCR model, Gaussian noise and salt-and-pepper noise are added in the process of data enhancement.
   
-  ![Image text](https://github.com/Qunstores/data_augementation/blob/master/result_code_data/0589676853_50_302_62ad5ef2d8f2d36a7377184789a747de.jpg)
+  ![Image text](https://github.com/Qunstores/data_augementation/blob/master/result_code_data/0163120161_50_307_5a2b96da4b6f375c4486a165a5f21f56.jpg)
   
   e. Randomly rotate 50% of the generated data to improve the generalization ability of the model.
   
